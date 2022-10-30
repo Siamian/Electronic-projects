@@ -1,2 +1,0 @@
-Błędy i problemy:
-1. Nastepnym razem nalezy uzyc dwóch tranzystorów (po jednym dla kazdej diody) tz . PNP i NPN aby diody sygnalizacyjne działały osobno a nie sama żółta i żółta z niebieską
