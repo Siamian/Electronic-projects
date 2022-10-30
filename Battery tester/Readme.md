@@ -3,6 +3,7 @@
 # Brief
 The purpose of this project is to create a tester for two batteries.
 Using the voltage comparator, the battery with the higher voltage is indicated.
+LEDs (yellow and blue) were used for signaling.
 
 # Software development
 To develop firmware for this project following tools were used:
