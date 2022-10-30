@@ -3,6 +3,7 @@
 # Brief
 The purpose of this project is to create a fume extractor.
 The project includes four 12V fans and a carbon filter.
+In the future, fan covers will be installed.
 
 
 # The final result
