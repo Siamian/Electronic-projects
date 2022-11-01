@@ -4,3 +4,6 @@ GPIO pin expander for boards:
 - STM32F1 03C8T6 (blue pill)
 - STM32F4 01CCU6 (black pill)
 - STM32F4 11CEU6 (black pill)
+
+# The final result
+![alt text](https://github.com/Siamian/Electronic-projects/blob/784e779c55c6ac6e5cea0134aa3f7a9d01d0750c/Solar%20panel%20with%20output%20USB%205V/5V%20DC%20converter%20with%20USB%20output_1.jpg "Logo Title Text 1")
